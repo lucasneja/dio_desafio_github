@@ -1,0 +1,14 @@
+Primeiro desafio dio para github e bash.
+Primeiros comandos:
+
+git clone             'para clonar(importar) um arquivo em versionamento'
+
+cd                    'comando para mudança de diretorio'
+ 
+git status            'comando para verificação de alteração no diretorio'
+
+git add (. ou -A)     'comando para adicionar um novo arquivo ao repositorio local'
+
+git commit -m         'comando para acresetar comentario'
+
+git push origin main  ' comando para atualializar repositorio remoto (github)
